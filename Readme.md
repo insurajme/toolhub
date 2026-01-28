@@ -4,7 +4,7 @@
 ToolHub provides a curated collection of free, easy-to-use tools for developers, designers, students, and everyday users — available both as a **web app** and an **Android app**.
 
 🌐 **[Visit the ToolHub Web App](https://surajmaharjan1.com.np)**  
-📱 **[Download ToolHub APK](https://github.com/srjmrjn7/toolhub/releases/latest)**
+📱 **[Download ToolHub APK](https://github.com/insurajme/toolhub/releases/latest)**
 
 ---
 
@@ -54,7 +54,7 @@ ToolHub provides a curated collection of free, easy-to-use tools for developers,
 3. Follow the on-screen instructions – most tools work instantly.
 
 ### Android APK
-1. Download the latest APK from the **[Releases](https://github.com/srjmrjn7/toolhub/releases)** page.
+1. Download the latest APK from the **[Releases](https://github.com/insurajme/toolhub/releases)** page.
 2. Enable **“Install from Unknown Sources”** in your Android settings if required.
 3. Install and open the app — all tools are available offline unless stated otherwise.
 
@@ -63,8 +63,8 @@ ToolHub provides a curated collection of free, easy-to-use tools for developers,
 ## 📥 Download
 
 Get the latest Android APK here:  
-👉 **[Download ToolHub APK v1.2.0](https://github.com/srjmrjn7/toolhub/releases/download/v1.2.0/toolhub.apk)**  
-*Check the [Releases page](https://github.com/srjmrjn7/toolhub/releases) for older versions.*
+👉 **[Download ToolHub APK v1.2.0](https://github.com/insurajme/toolhub/releases/download/v1.2.0/toolhub.apk)**  
+*Check the [Releases page](https://github.com/insurajme/toolhub/releases/tag/v1.0.0) for older versions.*
 
 ---
 
@@ -97,7 +97,7 @@ See [LICENSE](LICENSE) for more information.
 
 - 🌐 **Website:** [https://surajmaharjan1.com.np](surajmaharjan1.com.np)
 - 📧 **Email:** mail@surajmaharjan1.com.np
-- 🐛 **Issues:** [GitHub Issues](https://github.com/srjmrjn7/toolhub/issues)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/insurajme/toolhub/issues)
 - 💡 **Feature Requests:** Suggest via GitHub Issues
 
 ---
